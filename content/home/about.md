@@ -19,3 +19,6 @@ title: Biography
 # See https://wowchemy.com/docs/get-started/#introduce-yourself
 author: admin
 ---
+
+
+Faraz was born in Tehran, Iran. In a religious family!
