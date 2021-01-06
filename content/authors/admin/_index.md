@@ -18,9 +18,9 @@ bio: Intersted in data-driven decision making. Using data to find insight and kn
 
 # Interests to show in About widget
 interests:
-- Artificial Intelligence
+- Data-driven Decision Making
+- Data Analytics
 - Machine Learning
-- Information Retrieval
 
 # Education to show in About widget
 education:
@@ -39,7 +39,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '/#contact'
+  link: 'mailto:faraz.ahmadi96@gmail.com'
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/farazahmadi4
@@ -64,6 +64,6 @@ email: ""
 highlight_name: false
 ---
 
-I am in my second years of masters. My research is around data analytics, ML
+I am in my second years of masters. For my research, I apply data analytics and ML methods in healthcare. Here, I will try to showcase some of my projects to show my abilities as a data scientist.
 
 {{< icon name="download" pack="fas" >}} Download my (almost always outdated) resume from {{< staticref "media/demo_resume.pdf" "newtab" >}}here{{< /staticref >}}.
