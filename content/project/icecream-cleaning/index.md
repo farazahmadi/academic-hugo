@@ -16,12 +16,12 @@ image:
 links:
 - icon: github
   icon_pack: fab
-  name: See code on github!
+  name: Code on Github
   url: https://github.com/farazahmadi/Icecream-survey-data-cleaning
 
 - icon: book
   icon_pack: fas
-  name: See the full report
+  name: See full report
   url: "/proj/proj-html.html"
 
 # url_pdf: {{< ref "/project/icecream-cleaning/proj-html.html" >}}
