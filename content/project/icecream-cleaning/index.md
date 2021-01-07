@@ -19,6 +19,11 @@ links:
   name: See code on github!
   url: https://github.com/farazahmadi/Icecream-survey-data-cleaning
 
+- icon: book
+  icon_pack: fas
+  name: See the full report
+  url: "/proj/proj-html.html"
+
 # url_pdf: {{< ref "/project/icecream-cleaning/proj-html.html" >}}
 
 # url_slides: ""
@@ -34,7 +39,7 @@ links:
 
 This work is a preliminary data analysis task done on a survey data set done on ice cream brands. Its purpose is to clean and prepare the data set using different packages in R so that it can be used most easily by the analysts. This data set accompanies the __“Seven Summits of Marketing Research”__ text by Greg Allenby and Jeff Brazell. This was my first assignment for the Marketing Analysis course I had in fall 2020.
 
-The report is produced using *Rstudio* as an HTML file named [main.html](https://github.com/farazahmadi/Icecream-survey-cleaning/blob/main/main.html), however, the R Markdown file and all appendix files are attached if you want to knit the original R file yourself.
+The [report](/proj/proj-html.html) is produced using *Rstudio* as an HTML file. You can find the code on my [github page](https://github.com/farazahmadi/Icecream-survey-cleaning).
 
 1. Reading the Seven Summits ice cream data
 2. Reducing to essential variables needed for analyses
@@ -48,6 +53,3 @@ The report is produced using *Rstudio* as an HTML file named [main.html](https:/
 7. Recoding the variables
 8. Saving the data
 9. Conclusion
-
-
-[A project](/proj/proj-html.html)
