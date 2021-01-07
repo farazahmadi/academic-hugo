@@ -1,5 +1,5 @@
 ---
-title: Ice cream survey data cleaning
+title: Ice cream Customer's Survey Data Cleaning
 summary: Using R to clean and prepare a raw survey data for the analytics team
 tags:
 - R
@@ -10,25 +10,26 @@ date: "2020-10-08T00:00:00Z"
 external_link: ""
 
 image:
-  caption: Photo by rawpixel on Unsplash
+  caption: Photo by Shaffer-Smith/Getty Images
   focal_point: Smart
 
 links:
-- icon: twitter
+- icon: github
   icon_pack: fab
-  name: Follow
-  url: https://twitter.com/farazahmadi4
-url_code: "https://github.com/farazahmadi/Icecream-survey-data-cleaning"
-url_pdf: "./content/project/icecream-cleaning/proj-html.html"
-url_slides: ""
-url_video: ""
+  name: See code on github!
+  url: https://github.com/farazahmadi/Icecream-survey-data-cleaning
+
+url_pdf: {{< ref "/project/icecream-cleaning/proj-html.html" >}}
+
+# url_slides: ""
+# url_video: ""
 
 # Slides (optional).
 #   Associate this project with Markdown slides.
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-slides: example
+# slides: example
 ---
 
 This work is a preliminary data analysis task done on a survey data set done on ice cream brands. Its purpose is to clean and prepare the data set using different packages in R so that it can be used most easily by the analysts. This data set accompanies the __“Seven Summits of Marketing Research”__ text by Greg Allenby and Jeff Brazell. This was my first assignment for the Marketing Analysis course I had in fall 2020.
@@ -47,3 +48,6 @@ The report is produced using *Rstudio* as an HTML file named [main.html](https:/
 7. Recoding the variables
 8. Saving the data
 9. Conclusion
+
+
+[A project]({{< ref "/project/icecream-cleaning/proj-html.html" >}})
