@@ -19,7 +19,7 @@ links:
   name: See code on github!
   url: https://github.com/farazahmadi/Icecream-survey-data-cleaning
 
-url_pdf: {{< ref "/project/icecream-cleaning/proj-html.html" >}}
+# url_pdf: {{< ref "/project/icecream-cleaning/proj-html.html" >}}
 
 # url_slides: ""
 # url_video: ""
