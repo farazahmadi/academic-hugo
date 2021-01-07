@@ -50,4 +50,4 @@ The report is produced using *Rstudio* as an HTML file named [main.html](https:/
 9. Conclusion
 
 
-[A project]({{< ref "/project/icecream-cleaning/proj-html.html" >}})
+[A project]({{< ref "/static/proj-html.html" >}})
