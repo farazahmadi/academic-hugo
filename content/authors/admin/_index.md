@@ -64,6 +64,6 @@ email: ""
 highlight_name: false
 ---
 
-I am in my second years of masters. For my research, I apply data analytics and ML methods in healthcare. Here, I will try to showcase some of my projects to show my abilities as a data scientist.
+I am in the second years of my masters. For research, I apply data analytics and ML methods to healthcare data sets. Here, I will try to showcase some of my projects to show my abilities as a data scientist.
 
 {{< icon name="download" pack="fas" >}} Download my (almost always outdated) resume from {{< staticref "media/demo_resume.pdf" "newtab" >}}here{{< /staticref >}}.
