@@ -14,7 +14,7 @@ date: "2020-10-29T00:00:00Z"
 external_link: ""
 
 image:
-  caption: Photo by Shaffer-Smith/Getty Images
+  caption: 
   focal_point: Smart
 
 links:
