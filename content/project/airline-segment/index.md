@@ -1,10 +1,10 @@
 ---
-title: Customrs Segmentation of the airline data
-summary: Find the best segmentation model
+title: Customer Segmentation of the Airline Data
+summary: Finding the best segmentation model among customers in a survey conducted by an airline
 
 tags:
 - R
-- kmeans
+- k-means
 - random-forest
 - logistic-regression
 - segmentation
@@ -44,5 +44,5 @@ they would recommend the airline. The attitude variables would be used for the L
 I used the k-means algorithm to cluster the customers together. In the end, I had a tough time to personify the segments based on their level-1 and 2 results. Maybe the sample size was too low to give us good results.
 
 
-The [report](/proj/assign4.html) is produced using *Rstudio* as an HTML file. You can find the code on my [github page](https://github.com/farazahmadi/airline-data-segmentation).
+The work here was a part of my assignments for _M733 Marketing Analytics_ course that I took in 2020. The [report](/proj/assign4.html) is produced using *Rstudio* as an HTML file. You can find the code on my [github page](https://github.com/farazahmadi/airline-data-segmentation).
 
