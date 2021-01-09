@@ -9,7 +9,7 @@ tags:
 - logistic-regression
 - regression
 
-date: "2020-11-26T00:00:00Z"
+date: "2020-3-10T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 external_link: "https://www.kaggle.com/fahmadi96/datascience-final-project/"
