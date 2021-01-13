@@ -64,6 +64,8 @@ email: ""
 highlight_name: false
 ---
 
-I am in the second years of my masters. For research, I apply data analytics and ML methods to healthcare data sets. Here, I will try to showcase some of my projects to show my abilities as a data scientist.
+As a second-year masters student, I am interested in data science and translating data into valuable information. Whether using complex neural network models or a simple linear regressor, I build predective models and cluster (segment) observations. My goal is to use the tools I am most familiar with to help with more informed/data-driven decision makings.
 
-{{< icon name="download" pack="fas" >}} Download my (almost always outdated) resume from {{< staticref "media/demo_resume.pdf" "newtab" >}}here{{< /staticref >}}.
+I have worked with different type of data sets but currently for my research, I apply data analytics and ML methods to healthcare data set. Here, I will try to showcase some of my projects to show my abilities as a data scientist.
+
+{{< icon name="download" pack="fas" >}} Download my (almost always outdated) resume from {{< staticref "media/resume.pdf" "newtab" >}}here{{< /staticref >}}.
