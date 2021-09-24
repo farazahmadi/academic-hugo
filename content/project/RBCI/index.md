@@ -1,5 +1,5 @@
 ---
-title: Health and Wellness Segmentation on Ontario population for RBC Insurance
+title: Customer Segmentation on the Ontario population for RBC Insurance
 summary: Using data from CAMH and Environics Analytics to identify the segments who are facing a decline in mental health during COVID-19
 
 tags:
