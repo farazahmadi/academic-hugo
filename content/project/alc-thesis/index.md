@@ -7,13 +7,13 @@ tags:
 - imbalanced classification
 - EHR
 
-date: "2020-12-19T00:00:00Z"
+date: "2021-09-10T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
-external_link: 
+external_link: ""
 
 image:
-  caption: image source: https://www.seniorsmatter.com/elderly-hospitalization/2492138/
+  caption: {image source: https://www.seniorsmatter.com/elderly-hospitalization/2492138/}
   focal_point: Smart
 
 <!-- links:
