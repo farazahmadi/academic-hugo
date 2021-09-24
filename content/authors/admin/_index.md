@@ -68,4 +68,10 @@ As a second-year master's student, I am interested in data science and translati
 
 Currently, for my research, I apply data analytics and ML methods to healthcare data sets. Here, I will showcase some of my projects to display my abilities as a data scientist.
 
-{{< icon name="download" pack="fas" >}} Download my (almost always outdated) resume from {{< staticref "media/resume.pdf" "newtab" >}}here{{< /staticref >}}.
+Ever since I could remember, I was looking to have a meaningful impact with my work and my interest lied more on the application side than just mere theory. That’s why I transitioned from an electrical engineering background to data analytics. To me, data science is a way to use my detail-oriented and logical way of thinking to solve real problems and derive impact across almost any sector. My ultimate goal is to be able to learn about different businesses and help them make better data-driven decisions.
+
+I truly enjoy working with people and as part of a team. Throughout my studies, I have worked across many different teams, consisting of researchers and students. Therefore, I am comfortable in presenting my findings in meetings by adjusting the level of details in the presentation according to my audience.
+
+I have over two years of analytical experience in deriving insights from large data sets. I have worked with massive Electronic Health Records (EHR) such as the National Ambulatory Care Reporting System (NACRS), Discharge Abstract Database (DAD) from the Canadian Institute of Health Information (CIHI), and Canadian Longitudinal Study on Aging (CLSA) survey-based data sets.
+
+{{< icon name="download" pack="fas" >}} Download my resume from {{< staticref "media/resume.pdf" "newtab" >}}here{{< /staticref >}}.
