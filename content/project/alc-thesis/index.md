@@ -13,9 +13,9 @@ date: "2021-09-10T00:00:00Z"
 external_link: ""
 
 image:
-  caption: {image source: https://www.seniorsmatter.com/elderly-hospitalization/2492138/}
+  caption: image source
   focal_point: Smart
-
+# : https://www.seniorsmatter.com/elderly-hospitalization/2492138/
 <!-- links:
 - icon: github
   icon_pack: fab
