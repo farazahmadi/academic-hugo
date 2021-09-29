@@ -1,6 +1,6 @@
 ---
-title: ""Machine Learning Predictions of Alternate Level of Care (ALC) in Canada: From
-Emergency Department to the in-Hospital Stage""
+title: "Machine Learning Predictions of Alternate Level of Care (ALC) in Canada: From
+Emergency Department to the in-Hospital Stage"
 
 tags:
 - R
