@@ -2,6 +2,8 @@
 title: "Machine Learning Predictions of Alternate Level of Care (ALC) in Canada: From
 Emergency Department to the in-Hospital Stage"
 
+summary: MSc thesis project
+
 tags:
 - R
 - imbalanced classification
@@ -13,9 +15,9 @@ date: "2021-09-10T00:00:00Z"
 external_link: ""
 
 image:
-  caption: image source
+  caption: "image source: https://www.seniorsmatter.com/elderly-hospitalization/2492138/"
   focal_point: Smart
- 
+
 #  https://www.seniorsmatter.com/elderly-hospitalization/2492138/
 
 # Slides (optional).

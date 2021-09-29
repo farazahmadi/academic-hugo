@@ -25,10 +25,10 @@ interests:
 # Education to show in About widget
 education:
   courses:
-  - course: MSc in Computational Science and Engineering (CSE in Business)
+  - course: M.Sc. in Computational Science and Engineering (CSE in Business)
     institution: McMaster University
     year: 2021
-  - course: BSc in Electrical Engineering
+  - course: B.Eng. in Electrical Engineering - Bio electric
     institution: Sharif University of Technology
     year: 2019
 
@@ -63,15 +63,15 @@ email: ""
 # Highlight the author in author lists? (true/false)
 highlight_name: false
 ---
+<!-- As a second-year master's student, I am interested in data science and translating data into valuable information. Whether using complex neural network models or a simple linear regression, I build predictive models and apply clustering/ segmentation methods to the observations. My goal is to use analytical tools to help with more informed/data-driven decision makings.
 
-As a second-year master's student, I am interested in data science and translating data into valuable information. Whether using complex neural network models or a simple linear regression, I build predictive models and apply clustering/ segmentation methods to the observations. My goal is to use analytical tools to help with more informed/data-driven decision makings.
-
-Currently, for my research, I apply data analytics and ML methods to healthcare data sets. Here, I will showcase some of my projects to display my abilities as a data scientist.
-
+ -->
 Ever since I could remember, I was looking to have a meaningful impact with my work and my interest lied more on the application side than just mere theory. That’s why I transitioned from an electrical engineering background to data analytics. To me, data science is a way to use my detail-oriented and logical way of thinking to solve real problems and derive impact across almost any sector. My ultimate goal is to be able to learn about different businesses and help them make better data-driven decisions.
 
 I truly enjoy working with people and as part of a team. Throughout my studies, I have worked across many different teams, consisting of researchers and students. Therefore, I am comfortable in presenting my findings in meetings by adjusting the level of details in the presentation according to my audience.
 
-I have over two years of analytical experience in deriving insights from large data sets. I have worked with massive Electronic Health Records (EHR) such as the National Ambulatory Care Reporting System (NACRS), Discharge Abstract Database (DAD) from the Canadian Institute of Health Information (CIHI), and Canadian Longitudinal Study on Aging (CLSA) survey-based data sets.
+I completed my master's in September 2021 from [McMaster University](https://cse.mcmaster.ca/). I have over two years of analytical experience in deriving insights from large data sets. Moreover, I have worked with massive Electronic Health Records (EHR) such as the National Ambulatory Care Reporting System ([NACRS](https://www.cihi.ca/en/national-ambulatory-care-reporting-system-metadata-nacrs)), Discharge Abstract Database ([DAD](https://www.cihi.ca/en/discharge-abstract-database-metadata-dad)) from the Canadian Institute of Health Information ([CIHI](https://www.cihi.ca/en)), and Canadian Longitudinal Study on Aging ([CLSA](https://www.clsa-elcv.ca/)) survey-based data sets.
+
+I have applied my analytics skills on a variety data sets. Here, I will showcase some of my projects to display my abilities as a data scientist.
 
 {{< icon name="download" pack="fas" >}} Download my resume from {{< staticref "media/resume.pdf" "newtab" >}}here{{< /staticref >}}.

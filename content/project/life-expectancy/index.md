@@ -12,7 +12,7 @@ tags:
 date: "2020-3-10T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
-external_link: "https://www.kaggle.com/fahmadi96/datascience-final-project/"
+# external_link: "https://www.kaggle.com/fahmadi96/datascience-final-project/"
 
 image:
   caption: 
