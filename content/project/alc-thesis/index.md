@@ -2,7 +2,7 @@
 title: "Machine Learning Predictions of Alternate Level of Care (ALC) in Canada: From
 Emergency Department to the in-Hospital Stage"
 
-summary: "MSc thesis project, working on imbalanced classification on large data sets in different time points.""
+summary: "MSc thesis project, working on imbalanced classification on large data sets in different time points."
 
 tags:
 - R
