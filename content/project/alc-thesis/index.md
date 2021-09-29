@@ -1,6 +1,6 @@
 ---
-title: Machine Learning Predictions of Alternate Level of Care (ALC) in Canada: From
-Emergency Department to the in-Hospital Stage
+title: ""Machine Learning Predictions of Alternate Level of Care (ALC) in Canada: From
+Emergency Department to the in-Hospital Stage""
 
 tags:
 - R
@@ -15,7 +15,7 @@ external_link: ""
 image:
   caption: image source
   focal_point: Smart
-# : https://www.seniorsmatter.com/elderly-hospitalization/2492138/
+#  https://www.seniorsmatter.com/elderly-hospitalization/2492138/
 <!-- links:
 - icon: github
   icon_pack: fab
