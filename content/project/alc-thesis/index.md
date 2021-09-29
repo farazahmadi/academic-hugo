@@ -18,7 +18,11 @@ image:
   caption: "image source: https://www.seniorsmatter.com/elderly-hospitalization/2492138/"
   focal_point: Smart
 
-#  https://www.seniorsmatter.com/elderly-hospitalization/2492138/
+links:
+- icon: github
+  icon_pack: fab
+  name: Code on Github
+  url: https://github.com/farazahmadi/machine-learning-prediction-of-alternate-level-of-care
 
 # Slides (optional).
 #   Associate this project with Markdown slides.
@@ -30,5 +34,8 @@ image:
 
 In Canada, patients who occupy hospital beds but do not require that intensity of care are called Alternate Level of Care (ALC) patients. ALC has numerous negative implications on patient health and the health care system. Early identification of patients who are at risk of becoming ALC could help decision-makers better manage the situation and alleviate this problem. This thesis evaluates the use of various ML algorithms in predicting ALC at two different time points in the patient’s trajectory. Moreover, it identifies the most important predictors of ALC in each time point and provides insights on how adding more information, at the expense of time for decision-making, would improve the predictive accuracy. 
 
+In this study, ML methods were deployed using retrospective electronic health records. Our research is comprised of two separate algorithms at two different time points in the patient’s journey. The figure below presents the overview of the two algorithms. The first algorithm is carried in the ED stage and uses predictors available before admission to acute care hospital to predict delayed discharge in the hospital. The second algorithm uses a combination of predictors in both ED and hospital to predict the same outcome.
 
-The work here was my master's thesis in partial fulfillment of the requirements for the degree master of science in computational science & engineering from McMaster University.
+![method](https://github.com/farazahmadi/machine-learning-prediction-of-alternate-level-of-care/blob/7957364c0f263d2e80325643d1118e9b47ef3754/method.png)
+
+_The work here was my master's thesis for the degree master of science in computational science & engineering from **McMaster University**._
