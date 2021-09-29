@@ -15,18 +15,8 @@ external_link: ""
 image:
   caption: image source
   focal_point: Smart
+ 
 #  https://www.seniorsmatter.com/elderly-hospitalization/2492138/
-<!-- links:
-- icon: github
-  icon_pack: fab
-  name: Code on Github
-  url: https://github.com/farazahmadi/key-drivers-airline
-
-- icon: book
-  icon_pack: fas
-  name: See full report
-  url: "/proj/assign2.html" -->
-
 
 # Slides (optional).
 #   Associate this project with Markdown slides.
